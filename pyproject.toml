@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "virtual-ai-learning-environment"
+version = "0.1.0"
+description = "A bounded text simulation for AI language practice and evaluation"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.optional-dependencies]
+training = ["scikit-learn>=1.7,<2.0"]
+
+[project.scripts]
+virtual-learning = "virtual_environment.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["virtual_environment*"]

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "task": {
+    "id": "dialogue-intents",
+    "type": "text_classification",
+    "description": "Classify short, synthetic dialogue examples by communicative intent.",
+    "labels": ["greeting", "question", "request", "thanks"]
+  },
+  "dataset": {
+    "id": "synthetic-dialogue-intents-v1",
+    "source": "Synthetic examples created for this repository's local training demo.",
+    "license": "CC0-1.0",
+    "intended_use": "Demonstrate dataset review and small text-classifier training only."
+  },
+  "training": {
+    "min_examples_per_label": 8,
+    "test_fraction": 0.2,
+    "random_seed": 17,
+    "min_accuracy": 0.65,
+    "min_macro_f1": 0.65,
+    "min_per_label_f1": 0.5
+  }
+}

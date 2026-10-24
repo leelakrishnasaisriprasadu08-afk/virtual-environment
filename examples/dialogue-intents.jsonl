@@ -1,0 +1,75 @@
+{"text":"Hello there, it is nice to meet you.","label":"greeting"}
+{"text":"Good morning, how are you today?","label":"greeting"}
+{"text":"Hi, welcome to the study group.","label":"greeting"}
+{"text":"Hey, I am glad you could join us.","label":"greeting"}
+{"text":"Good evening, it is good to see you.","label":"greeting"}
+{"text":"What time does the lesson begin?","label":"question"}
+{"text":"How does this exercise work?","label":"question"}
+{"text":"Where should I put the finished worksheet?","label":"question"}
+{"text":"Which topic are we studying this week?","label":"question"}
+{"text":"Do you know when the library closes?","label":"question"}
+{"text":"Please help me carry these books.","label":"request"}
+{"text":"Could you show me the first step?","label":"request"}
+{"text":"Would you please read this sentence aloud?","label":"request"}
+{"text":"Can you send me the notes after class?","label":"request"}
+{"text":"Please give me a moment to think.","label":"request"}
+{"text":"Thank you for explaining that clearly.","label":"thanks"}
+{"text":"Thanks for waiting for me.","label":"thanks"}
+{"text":"I appreciate your help with the assignment.","label":"thanks"}
+{"text":"Many thanks for sharing your notes.","label":"thanks"}
+{"text":"Thank you, that example made sense.","label":"thanks"}
+{"text":"Hello, I am glad to meet you today.","label":"greeting"}
+{"text":"Welcome to our conversation practice.","label":"greeting"}
+{"text":"Hi there, I hope your day is going well.","label":"greeting"}
+{"text":"Good afternoon, I am joining the class now.","label":"greeting"}
+{"text":"Hey, nice to see you at the meeting.","label":"greeting"}
+{"text":"When will the next study session start?","label":"question"}
+{"text":"Why does this sentence use a comma?","label":"question"}
+{"text":"How can I find the correct chapter?","label":"question"}
+{"text":"Who is leading our group discussion?","label":"question"}
+{"text":"Is the reading assignment due tomorrow?","label":"question"}
+{"text":"Please explain this word in another way.","label":"request"}
+{"text":"Could you pass me the notebook, please?","label":"request"}
+{"text":"Would you mind checking my first answer?","label":"request"}
+{"text":"Can you help me practice this dialogue?","label":"request"}
+{"text":"Please wait while I write down the instructions.","label":"request"}
+{"text":"Thanks for helping me prepare for class.","label":"thanks"}
+{"text":"I am grateful that you shared the example.","label":"thanks"}
+{"text":"Thank you for answering my question.","label":"thanks"}
+{"text":"I appreciate you taking time to explain.","label":"thanks"}
+{"text":"Many thanks for your useful feedback.","label":"thanks"}
+{"text":"Hello, it is nice to have you in our study group.","label":"greeting"}
+{"text":"Good morning, welcome to the language lesson.","label":"greeting"}
+{"text":"Hi, we are pleased to have you here.","label":"greeting"}
+{"text":"Hey there, it is good to see you again.","label":"greeting"}
+{"text":"Good evening, welcome to the discussion.","label":"greeting"}
+{"text":"When does our next class begin?","label":"question"}
+{"text":"Where can I find the assignment instructions?","label":"question"}
+{"text":"Why is this word written with a capital letter?","label":"question"}
+{"text":"Who will present the first example?","label":"question"}
+{"text":"How many pages should we read for tomorrow?","label":"question"}
+{"text":"Is the classroom open during lunch?","label":"question"}
+{"text":"Which exercise should I complete first?","label":"question"}
+{"text":"What does this phrase mean in the story?","label":"question"}
+{"text":"Do we need to bring our notebooks today?","label":"question"}
+{"text":"When will the teacher return our papers?","label":"question"}
+{"text":"Please pass me the blue folder.","label":"request"}
+{"text":"Could you repeat the final instruction, please?","label":"request"}
+{"text":"Please write the new vocabulary on the board.","label":"request"}
+{"text":"Can you save a seat for my classmate?","label":"request"}
+{"text":"Would you read the second paragraph aloud?","label":"request"}
+{"text":"Please give me a little more time to finish.","label":"request"}
+{"text":"Could you lend me a pencil for this exercise?","label":"request"}
+{"text":"Please show our group where to begin.","label":"request"}
+{"text":"Can you move the chair closer to the table?","label":"request"}
+{"text":"Would you check whether I filled in every answer?","label":"request"}
+{"text":"Thank you for welcoming me to the study group.","label":"thanks"}
+{"text":"Thanks for repeating the instruction slowly.","label":"thanks"}
+{"text":"I appreciate the time you spent helping me.","label":"thanks"}
+{"text":"Thank you for lending me your notebook.","label":"thanks"}
+{"text":"Many thanks for checking my work.","label":"thanks"}
+{"text":"I am grateful for your clear explanation.","label":"thanks"}
+{"text":"Thanks for saving a seat for our group.","label":"thanks"}
+{"text":"Thank you for waiting until I was ready.","label":"thanks"}
+{"text":"I appreciate your helpful suggestion.","label":"thanks"}
+{"text":"Thank you for sharing the class notes.","label":"thanks"}
